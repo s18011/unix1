@@ -1,0 +1,2 @@
+sudo cat log | less
+
